@@ -1,0 +1,12 @@
+game-> robot 
+
+each robot has 3 base attributes -> talk , walk and fly 
+
+talk -> fastTalk , slowTalk 
+walk -> fastWalk , slowWalk 
+fly -> fastFly , slowFly 
+
+at runtime ,properties can be set . 
+
+mario can powerup -> slowWalk can become fastWalk 
+
